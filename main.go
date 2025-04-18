@@ -105,7 +105,7 @@ func buildStaticSite() error {
 		}
 	}
 
-	return nil
+	return nil2
 }
 
 // dropCreateDir drop and create output directory
